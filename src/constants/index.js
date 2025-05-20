@@ -73,7 +73,7 @@ export const myProjects = [
       },
       {
         id: 2,
-        name: "Notion",
+        name: "React",
         path: "/assets/logos/react.svg",
       },
     ],
